@@ -1,4 +1,4 @@
-# H2Analytics Full-Stack Sample
+# Full-Stack Sample
 
 ## 🐍 Backend Setup (Python + Flask)
 ```
